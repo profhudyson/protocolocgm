@@ -1,0 +1,26 @@
+
+                                                                  
+  [Symfony\Component\Console\Exception\CommandNotFoundException]  
+  Command "infyom" is not defined.                                
+  Did you mean one of these?                                      
+      infyom.api:controller                                       
+      infyom.api:requests                                         
+      infyom.api:tests                                            
+      infyom.publish:generator-builder                            
+      infyom.publish:layout                                       
+      infyom.publish:templates                                    
+      infyom.publish:vuejs                                        
+      infyom.scaffold:controller                                  
+      infyom.scaffold:requests                                    
+      infyom.scaffold:views                                       
+      infyom:api                                                  
+      infyom:api_scaffold                                         
+      infyom:migration                                            
+      infyom:model                                                
+      infyom:publish                                              
+      infyom:repository                                           
+      infyom:rollback                                             
+      infyom:scaffold                                             
+      infyom:vuejs                                                
+                                                                  
+
